@@ -40,3 +40,5 @@ document.querySelector('button[name=limpar]').addEventListener('click', ()=>{
     document.querySelector('.soma-produto h1').innerHTML = "R$ 0";
 
 });
+
+console.log('teste');
